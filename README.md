@@ -1,6 +1,6 @@
-# Quiz-App
+# github-user-finder
 
-Welcome to Quiz App - a dynamic and interactive quiz application!
+Welcome to GitHub-user-finder - searching for GitHub users and visiting their repositories easily and simply!
 
 ## Table of Contents
 

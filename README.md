@@ -16,12 +16,11 @@ Welcome to GitHub-user-finder - searching for GitHub users and visiting their re
 
 ## Introduction
 
-GitHub Finder is a web application that allows users to search and explore GitHub repositories and user profiles easily. It provides a user-friendly interface to discover repositories based on keywords, programming languages, and other filters.
+GitHub  user Finder is a web application that allows users to search and explore GitHub repositories and user profiles easily. It provides a user-friendly interface to discover repositories based on keywords, programming languages, and other filters.
 
 ## Technologies
 
-- HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## To install dependencies
@@ -35,7 +34,7 @@ npm run build
 
 ## Contributing
 
-Contributions to Quiz-App are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or create a pull request.
+We encourage active participation in enhancing the GitHub user finder tool; whether you come across issues or have innovative ideas for improvement, please don't hesitate to open an issue or submit a pull request. Your contributions are highly valued!
 
 ## License
 

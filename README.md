@@ -3,14 +3,11 @@
 Welcome to GitHub-user-finder - searching for GitHub users and visiting their repositories easily and simply!
 
 ## Table of Contents
-
 - [Introduction](#introduction)
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Getting Started](#getting-started)
 - [Technologies](#technologies)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
+- [To install dependencies](#to-install-dependencies)
+- [To run the project](#to-run-the-project)
+- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
 

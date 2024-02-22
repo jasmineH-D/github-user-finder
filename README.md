@@ -7,7 +7,7 @@ Welcome to GitHub-user-finder - searching for GitHub users and visiting their re
 - [Technologies](#technologies)
 - [To install dependencies](#to-install-dependencies)
 - [To run the project](#to-run-the-project)
-- [Getting Started](#getting-started)
+- [npm run serve](#lnpm-run-serve)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -21,13 +21,13 @@ GitHub  user Finder is a web application that allows users to search and explore
 - JavaScript
 
 ## To install dependencies
-npm install
+```npm install
 
 ## To run the project
-npm run serve
+```npm run serve
 
-## npm run serve
-npm run build
+## Preparing the project for the production environment
+```npm run build
 
 ## Contributing
 

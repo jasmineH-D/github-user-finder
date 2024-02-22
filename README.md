@@ -21,13 +21,19 @@ GitHub  user Finder is a web application that allows users to search and explore
 - JavaScript
 
 ## To install dependencies
-```npm install
+```
+npm install
+```
 
 ## To run the project
-```npm run serve
+```
+npm run serve
+```
 
 ## Preparing the project for the production environment
-```npm run build
+```
+npm run build
+```
 
 ## Contributing
 

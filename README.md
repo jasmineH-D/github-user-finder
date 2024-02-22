@@ -1,3 +1,3 @@
-### Built With React, NextJS, JAZZ UI
+GitHub Finder
 
 # [App Demo](https://github-user-finder-yt.vercel.app/)
